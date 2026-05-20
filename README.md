@@ -1,4 +1,4 @@
-# Image Smoothing and Sharpening Using OpenCV
+# EXP- 5 Image Smoothing and Sharpening Using OpenCV
 
 ## Aim
 
